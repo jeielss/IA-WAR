@@ -1,4 +1,4 @@
-# Batalão Inteligência Artificial para jogar WAR
+# Batalhão Inteligência Artificial para jogar WAR
 <img src="https://github.com/jeielss/IA-WAR/blob/main/foto.png?raw=true" alt="BIA">
 
 Esse é um projeto de Inteligência Artificial desenvolvido para competição ABII Challenge 2023. O projeto consiste em utilizar visão computacional para realizar a leitura do tabuleiro da [plataforma de WAR da Grow Games](https://play.wargrow.com.br/), processar as informações e gerar jogadas para serem inseridas no tabuleiro.
