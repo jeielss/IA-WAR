@@ -263,8 +263,8 @@ def encontraPaises(imagem, jogadores, territorios, largura_img=3000, verbose=Fal
             referencia = (x,y)
             cv2.rectangle(img_original, (ini_x, ini_y), (fim_x, fim_y), (0, 0, 255), 2)
 
-            area_acoes = [ini_x -0.275 * img_size[0], ini_x -0.275 * img_size[0] + img_size[0]/5,
-                          ini_y + 0.168*img_size[1],ini_y + 0.168*img_size[1] + img_size[1]/18]
+            area_acoes = [ini_x -0.30 * img_size[0], ini_x -0.30 * img_size[0] + img_size[0]/4.7,
+                          ini_y + 0.19*img_size[1],ini_y + 0.19*img_size[1] + img_size[1]/18]
 
             area_jogador = [ini_x -0.29 * img_size[0], ini_x -0.29 * img_size[0] + img_size[0]/4.8,
                           ini_y + 0.02*img_size[1],ini_y + 0.02*img_size[1] + img_size[1]/16]
