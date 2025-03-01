@@ -6,3 +6,4 @@ keras-ocr==0.9.3
 numpy==1.23.5
 Pillow==10.0.0
 PySimpleGUI==4.60.5
+setuptools>=58.0.0
